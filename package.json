@@ -2,9 +2,9 @@
   "name": "@dipanshuraz/thumbnail",
   "version": "1.0.0",
   "author": {
-    "name": "Tim Kuijsten / Deepanshu Prajapati",
-    "email": "tim@netsend.nl / dipanshuraz2@gmail.com",
-    "url": "https://github.com/timkuijsten /"
+    "name": "Deepanshu Prajapati",
+    "email": "dipanshuraz2@gmail.com",
+    "url": "https://github.com/dipanshuraz/thumbnail"
   },
   "contributors": [
     "Sander Baas",
@@ -23,7 +23,7 @@
     "node": ">=0.8.22"
   },
   "main": "main.js",
-  "bugs": "https://github.com/timkuijsten/node-thumbnail/issues",
+  "bugs": "https://github.com/dipanshuraz/thumbnail",
   "devDependencies": {
     "mocha": ">=1.8.2",
     "should": ">=1.2.2"
@@ -33,6 +33,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timkuijsten/node-thumbnail.git"
+    "url": "https://github.com/dipanshuraz/thumbnail.git"
   }
 }
