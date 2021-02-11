@@ -1,3 +1,7 @@
+# Update : Clone of [Thumbnail](https://www.npmjs.com/package/thumbnail) from [timkuijsten](https://www.npmjs.com/~timkuijsten)
+
+### I updated this for my personal project.
+
 # thumbnail
 
 Small utility to easily and efficiently create thumbnails using GraphicsMagick.
